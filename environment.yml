@@ -1,0 +1,14 @@
+name: optimal_portfolio_liquidation
+dependencies:
+  - python=3.9
+  - pandas
+  - numpy
+  - matplotlib
+  - plotly
+  - jupyter
+  - scikit-learn
+  - ipykernel
+  - pip
+  - pip:
+      - dash
+      - flask
